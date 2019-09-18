@@ -9,3 +9,4 @@
 *.py annex.largefiles=nothing
 *.sh annex.largefiles=nothing
 
+scripts/* annex.largefiles=nothing
