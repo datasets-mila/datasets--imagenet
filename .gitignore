@@ -1,4 +1,5 @@
 var/*
 .nfs*
 bin/ffmpeg-4.2.1-amd64-static/
+tmp_processing/
 *.nohup
