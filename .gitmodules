@@ -1,0 +1,3 @@
+[submodule "imagenet_hdf5"]
+	path = imagenet_hdf5
+	url = .
