@@ -1,1 +1,1 @@
-git+https://github.com/satyaog/pyheifconcat.git@e7dca9624f5fa0ea857f2a091267042cc9716fc9
+git+https://github.com/satyaog/pyheifconcat.git@18cb5a8058d7c2393e5efb14e72539e5e24edc55
