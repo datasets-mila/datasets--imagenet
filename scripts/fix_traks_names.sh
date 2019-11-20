@@ -9,13 +9,6 @@ if [ $ERR -ne 0 ]; then
    exit $ERR
 fi
 
-for file in tmp_processing/queue/*.transcoded; do
-    echo "Fixing [$file] ..."
-    python scripts/fix_traks_names.py $file
-    ERR=$?
-    if [ $ERR -ne 0 ]; then
-        echo "Failed to fix [$file]: $ERR"
-        exit $ERR
-    fi
-done
+jug status scripts/fix_traks_names.py tmp_processing/queue
+jug execute scripts/fix_traks_names.py tmp_processing/queue &> tmp_processing/fix_traks_names.out
 
