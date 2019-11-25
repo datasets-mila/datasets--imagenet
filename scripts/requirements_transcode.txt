@@ -1,3 +1,3 @@
-git+https://github.com/satyaog/pybzparse.git@e8f95d3f4a27b5090cb97b5b244d560c52c5ba27
-git+https://github.com/satyaog/pyheifconcat.git@e468089855c3847ab9756b88082e41b8d87a14c7
+git+https://github.com/satyaog/pybzparse.git@f2de9500b7e4d7e70ddb4226bded389eceaa6050
+git+https://github.com/satyaog/pyheifconcat.git@811ab01b82d518e222186a198ee2af6ef0ebb8a7
 h5py>=2.10.0
