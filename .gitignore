@@ -1,6 +1,6 @@
 var/*
 .nfs*
-bin/ffmpeg-4.2.1-amd64-static/
+bin/ffmpeg-*-amd64-static/
 tmp_processing/
 *.jugdata
 *.nohup
