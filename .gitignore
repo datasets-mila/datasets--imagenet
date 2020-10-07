@@ -1,2 +1,5 @@
 .nfs*
 bin/ffmpeg-*-amd64-static/
+tmp_processing/
+*.jugdata/
+*.nohup
