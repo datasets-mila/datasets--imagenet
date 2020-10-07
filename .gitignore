@@ -3,3 +3,6 @@
 /.tmp/
 /bin/ffmpeg-*-amd64-static/
 /logs/
+/bcachefs_content/
+*.jugdata/
+*.nohup
