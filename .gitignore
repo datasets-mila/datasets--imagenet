@@ -1,2 +1,5 @@
 .nfs*
 /.tmp/
+/logs/
+/imagenet2012/*.incomplete*/
+/imagenet2012/*/*.tfrecord-*

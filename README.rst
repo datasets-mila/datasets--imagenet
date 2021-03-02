@@ -1,8 +1,9 @@
-########
-IMAGENET
-########
+#####################
+IMAGENET - TENSORFLOW
+#####################
 
 `<http://www.image-net.org/challenges/LSVRC/2012/>`_
+`<https://www.tensorflow.org/datasets/catalog/imagenet2012>`_
 
 ************
 Introduction
@@ -61,3 +62,11 @@ Citation
     number={3},
     pages={211-252}
     }
+
+*********
+TFRecords
+*********
+
+The dataset has been formated using `tfds.load
+<https://www.tensorflow.org/datasets/api_docs/python/tfds/load>_`. It currently
+does not include the *test* split.
