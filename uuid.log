@@ -7,5 +7,6 @@
 84430638-4341-437b-b59d-2e73ab637316 ortizgas@login-2.server.mila.quebec:/network/datasets/imagenet/var/imagenet_hdf5 timestamp=1572021208.919814s
 9c96026c-65b3-488c-a1fb-d9849f3870f9 ortizgas@bart12:~/datasets/imagenet_benzina timestamp=1575992699.784712s
 c8951714-8aab-4449-b870-cb3762ebb357 ortizgas@login-2.server.mila.quebec:/network/datasets/cifar10 timestamp=1570992490.202759s
+cb59aa60-33db-41e9-9c15-b81ddf48a02d satya-local@cortex.server.mila.quebec:/export/data/datasets/imagenet.var/imagenet_torchvision timestamp=1582754550.250249s
 cb59aa60-33db-41e9-9c15-b81ddf48a02d satya-local@cortex.server.mila.quebec:/network/datasets/imagenet.var/imagenet_torchvision timestamp=1582754550.250249s
 d7badcde-f3b6-488a-94fb-10e27a693aee ortizgas@login-2.server.mila.quebec:/network/datasets/cifar10/scripts/cifar10_torchvision timestamp=1571155325.181698s
