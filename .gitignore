@@ -1,4 +1,6 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 /train/
 /val/
-/.tmp/
