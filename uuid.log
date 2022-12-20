@@ -2,8 +2,11 @@
 18ed573f-659e-4974-b323-8953234a7ffa ortizgas@login-2.server.mila.quebec:/network/datasets/cifar10 timestamp=1571153739.034071s
 5163d83b-a58c-4ad0-8aa9-c226c51ea3d8 ortizgas@login-2.server.mila.quebec:/network/datasets/imagenet timestamp=1566571303.639091s
 5b0799ec-d62b-4c69-9417-e1e5349a843a ortizgas@login-2.server.mila.quebec:/network/datasets/imagenet timestamp=1570996047.288884s
+84430638-4341-437b-b59d-2e73ab637316 ortizgas@login-2.server.mila.quebec:/network/datasets/imagenet.var/imagenet_hdf5 timestamp=1572021208.919814s
 84430638-4341-437b-b59d-2e73ab637316 ortizgas@login-2.server.mila.quebec:/network/datasets/imagenet/var/imagenet_hdf5 timestamp=1572021208.919814s
+863414d4-e001-43a4-9fdf-799ad6cdd9df satya-local@dn-a001:/network/datasets_beta/imagenet timestamp=1630547194.123658s
 9c96026c-65b3-488c-a1fb-d9849f3870f9 ortizgas@bart12:~/datasets/imagenet_benzina timestamp=1575992699.784712s
+b486a287-66c1-4532-b7f2-7ed36bcdc4c4 satya-local@dn-a001:~/_datasets/imagenet timestamp=1653456391.794494s
 b9965ba4-200e-48ea-966a-a942712702b6 satya-local@cortex:/export/data/datasets/imagenet.var/imagenet_tensorflow timestamp=1615315790.396377s
 c8951714-8aab-4449-b870-cb3762ebb357 ortizgas@login-2.server.mila.quebec:/network/datasets/cifar10 timestamp=1570992490.202759s
 cb59aa60-33db-41e9-9c15-b81ddf48a02d satya-local@cortex.server.mila.quebec:/network/datasets/imagenet.var/imagenet_torchvision timestamp=1582754550.250249s
