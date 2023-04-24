@@ -9,9 +9,12 @@ function activate_gitannex {
 		_modules=$(git config --file scripts/config/datalad_config --get datalad.conda.modules || echo -n)
 		if [[ -z "$(which conda)" ]] && [[ ! -z "${_modules}" ]]
 		then
-			module load ${_modules}
+			module load ${_modules} 2>/dev/null
+			eval "$(conda shell.bash hook)"
 		fi
+		conda activate ${_conda_env} >/dev/null 2>&1 || eval "$(conda shell.bash hook)"
 		conda activate ${_conda_env}
+		exit_on_error_code "Failed to init git-annex conda env"
 	fi
 }
 
